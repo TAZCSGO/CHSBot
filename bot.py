@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import praw
 
-user_agent = ("CryoBot 1.0")
+user_agent = ("CHSBot 1.0")
 
 r = praw.Reddit(user_agent = user_agent)
 
